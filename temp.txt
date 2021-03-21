@@ -1,0 +1,9 @@
+,
+		{
+			"type": "temporary",
+			"reason": "NETError",
+			"pattern": "[\\S ]+: port \\d+(.+) entered [\\S ]+ state"
+		}
+
+
+
